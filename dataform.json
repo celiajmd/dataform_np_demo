@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "dataform_np",
+  "assertionSchema": "dataform_assertions_np",
+  "warehouse": "bigquery",
+  "defaultDatabase": "celiaji-schwab-dev",
+  "defaultLocation": "US"
+}
+    
